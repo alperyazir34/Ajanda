@@ -1,0 +1,100 @@
+﻿@model KurumsalAjanda.Models.Personeller
+@{
+    ViewBag.Title = "Personel - Ekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        <h3>Müşteri Kayıt</h3>
+        <br />
+        <form action="~/Personel/Kaydet" method="post" class="form form-group">
+        
+            @Html.AntiForgeryToken()
+            <div class="sign-u">
+            @Html.TextBox("ad", null, new { placeholder = "Personel Adı", @class = "from form-control", required = "" })
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <div class="sign-u">
+            @Html.TextBox("soyad", null, new { placeholder = "Personel Soyadı", @class = "from form-control", required = "" })
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <div class="sign-u">
+            @Html.TextBox("basHarf", null, new { placeholder = "Personel Adının ve Soyadının Baş Harfleri (Ör:EK)", @class = "from form-control", required = "" })
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <div class="sign-u">
+            @Html.Label("Personel Doğum Tarihi")
+            @Html.TextBox("dogumTrh", null, new { @class = "from form-control", required = "", type = "date" })
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <div class="sign-u">
+            @Html.DropDownList("departmanAdi", ViewBag.departman as SelectList, "Seçiniz", new { @class = "form-control" })
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <div class="sign-u">
+            @Html.TextBox("email", null, new { placeholder = "Personel Mail Adresi", @class = "from form-control", required = "" })
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <div class="sign-u">
+            @Html.TextBox("tel_no", null, new { placeholder = "Personel Telefon Numarası", @class = "from form-control", required = "", type = "tel" })
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+
+        <div class="sign-u">
+            <select name="yillikizin" class="form form-control" required="">
+                <option>Personel İzin</option>
+                @for (int i = 1; i <= 50; i++)
+                {
+                    <option>@i</option>
+                }
+
+            </select>
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <div class="sign-u">
+            <select class="form form-control" name="vasfi">
+                <option>Personel Vasfı</option>
+                <option>Müdür</option>
+                <option>Personel</option>
+            </select>
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <div class="sign-u">
+            @Html.Label("Personel Fotoğrafı")
+            @Html.TextBox("resimyukle", null, new { @class = "form-control-file", type = "file" })
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <h3>Giriş Bigileri :</h3>
+        <br />
+        <div class="sign-u">
+            <input type="password" placeholder="Şifre" required="" name="sifre" class="form form-control">
+            <div class="clearfix"> </div>
+            <br />
+        </div>
+        <div class="sign-u">
+            <input type="password" placeholder="Şifreyi Doğrula" required="" name="sifretekrar" class="form form-control">
+        </div>
+        <br />
+        <div class="clearfix"> </div>
+        <div class="sub_home">
+            @Html.HiddenFor(m => m.Personel_ID)
+            <input type="submit" value="Kaydet" name="" class="btn btn-dark">
+            <div class="clearfix"> </div>
+            <p style="color: red">@ViewBag.hata</p>
+        </div>
+        </form>
+    </div>
+    <div class="col-lg-2"></div>
+</div>

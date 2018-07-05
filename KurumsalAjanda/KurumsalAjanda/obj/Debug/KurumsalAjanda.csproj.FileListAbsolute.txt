@@ -1,0 +1,598 @@
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll.config
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.pdb
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe.config
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.rsp
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe.config
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.rsp
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.AppContext.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Console.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Compression.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Claims.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.ValueTuple.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe.config
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.rsp
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.xml
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.xml
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.xml
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.xml
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.xml
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.xml
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.xml
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csprojResolveAssemblyReference.cache
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CoreCompileInputs.cache
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CopyComplete
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.dll
+C:\Users\Enis Karagöz\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.pdb
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll.config
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.pdb
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe.config
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.rsp
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe.config
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.rsp
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.AppContext.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Collections.Immutable.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Console.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.Process.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Compression.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Pipes.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Reflection.Metadata.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.AccessControl.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Claims.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Principal.Windows.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Threading.Thread.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.ValueTuple.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XmlDocument.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe.config
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.rsp
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe.config
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.Web.Infrastructure.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.xml
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.xml
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.xml
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.xml
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.xml
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.xml
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.xml
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.xml
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csprojResolveAssemblyReference.cache
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CoreCompileInputs.cache
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.dll
+E:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.pdb
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll.config
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.pdb
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe.config
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.rsp
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe.config
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.rsp
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.AppContext.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Collections.Immutable.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Console.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.Process.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Compression.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Pipes.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Reflection.Metadata.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.AccessControl.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Claims.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Principal.Windows.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Threading.Thread.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.ValueTuple.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XmlDocument.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe.config
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.rsp
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe.config
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.Web.Infrastructure.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.xml
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.xml
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.xml
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.xml
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.xml
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.xml
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.xml
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.xml
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csprojResolveAssemblyReference.cache
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CoreCompileInputs.cache
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.dll
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.pdb
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll.config
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.pdb
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe.config
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.rsp
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe.config
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.rsp
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.AppContext.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Collections.Immutable.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Console.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.Process.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Compression.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Pipes.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Reflection.Metadata.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.AccessControl.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Claims.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Principal.Windows.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Threading.Thread.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.ValueTuple.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XmlDocument.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe.config
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.rsp
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe.config
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.Web.Infrastructure.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.xml
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.xml
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.xml
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.xml
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.xml
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.xml
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.xml
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.xml
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csprojResolveAssemblyReference.cache
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CoreCompileInputs.cache
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CopyComplete
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.dll
+H:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.pdb
+F:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CopyComplete
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll.config
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.pdb
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe.config
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.rsp
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe.config
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.rsp
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.AppContext.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Collections.Immutable.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Console.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.Process.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Compression.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Pipes.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Reflection.Metadata.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.AccessControl.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Claims.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Principal.Windows.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Threading.Thread.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.ValueTuple.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XmlDocument.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe.config
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.rsp
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe.config
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.Web.Infrastructure.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.xml
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.xml
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.xml
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.xml
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.xml
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.xml
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.xml
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.xml
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csprojAssemblyReference.cache
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CoreCompileInputs.cache
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CopyComplete
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.dll
+J:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.pdb
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll.config
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.pdb
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe.config
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.rsp
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe.config
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.rsp
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.AppContext.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Collections.Immutable.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Console.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.Process.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Compression.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Pipes.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Reflection.Metadata.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.AccessControl.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Claims.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Principal.Windows.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Threading.Thread.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.ValueTuple.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe.config
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.rsp
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe.config
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.Web.Infrastructure.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.xml
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.xml
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.xml
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.xml
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.xml
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.xml
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.xml
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.xml
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csprojAssemblyReference.cache
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CoreCompileInputs.cache
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CopyComplete
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.dll
+D:\KurumsalAjanda-yedek\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.pdb
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll.config
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.pdb
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe.config
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.rsp
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe.config
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.rsp
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.AppContext.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Collections.Immutable.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Console.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.Process.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Compression.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Pipes.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Reflection.Metadata.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.AccessControl.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Claims.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Principal.Windows.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Threading.Thread.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.ValueTuple.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe.config
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.rsp
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe.config
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.Web.Infrastructure.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.xml
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.xml
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.xml
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.xml
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.xml
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.xml
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.xml
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.xml
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csprojAssemblyReference.cache
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CoreCompileInputs.cache
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CopyComplete
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.dll
+D:\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.pdb
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll.config
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\KurumsalAjanda.pdb
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.xml
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Webpages.Razor.xml
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.dll
+C:\Users\ACER\Desktop\KurumsalAjanda\KurumsalAjanda\KurumsalAjanda\obj\Debug\KurumsalAjanda.pdb

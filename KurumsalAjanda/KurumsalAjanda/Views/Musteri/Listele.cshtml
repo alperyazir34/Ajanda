@@ -1,0 +1,58 @@
+﻿@using KurumsalAjanda.Models
+@model List<Musteriler>
+@{
+    /**/
+
+    ViewBag.Title = "Müşteriler - Listele";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table class="table table-bordered table-striped" style="background-color:#fff" id="filter">
+    <thead>
+        <tr>
+            <th>Müşteri Adı</th>
+            <th>Müşteri Soyadı</th>
+            <th>Departman Adı</th>
+            <th>Yaş</th>
+            <th>E-Mail</th>
+            <th>Telefon</th>
+            <th>Vasfı</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (Musteriler musteri in Model)
+        {
+            if (musteri.Is_Active == true)
+            {
+                <tr>
+                    <td>@musteri.Ad</td>
+                    <td>@musteri.Soyad</td>
+                    <td>@musteri.Departman_Adi</td>
+                    <td>@(DateTime.Now.Year - musteri.Dogum_Tarihi.Value.Year)</td>
+                    <td>@musteri.E_Mail</td>
+                    <td>@musteri.Telefon_No</td>
+                    <td>@musteri.Vasfi</td>
+                </tr>
+            }
+        }
+    </tbody>
+
+</table>
+@if (Session["Yetki"].Equals(true))
+{
+    <script>
+
+        $(document).ready(function () {
+            $("#filter").DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Turkish.json"
+                },
+                dom: 'Bfrtip',
+                buttons: [
+                    { extend: 'copy', className: 'bg-primary', text: 'Tabloyu Kopyala' },
+                    { extend: 'pdf', className: 'bg-success', text: 'Tabloyu PDF Olarak Kaydet' }
+                ]
+            });
+        });
+    </script>
+}

@@ -1,0 +1,59 @@
+﻿@using KurumsalAjanda.Models
+@model List<Is_Detay>
+@{
+    ViewBag.Title = "İş Yönetimi - Listeleme";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table class="table table-bordered table-striped" style="background-color:#fff" id="filter">
+    <thead>
+        <tr>
+            <th>Personel Adı</th>
+            <th>İş Türü</th>
+            <th>Önemi</th>
+            <th>Departman</th>
+            <th>İşin Adı</th>
+            <th>İşin Açıklaması</th>
+            <th>Başlama Tarihi</th>
+            <th>Bitiş Tarihi</th>
+            <th>Güncelle</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (Is_Detay Is in Model)
+        {
+            if (Is.Is_Active == true)
+            {
+
+                <tr>
+                    <td>@Is.Personeller.Ad</td>
+                    <td>@Is.Is_Turleri.Tur_Adi</td>
+                    <td>@Is.Toplanti_Onemi.Toplanti_Isim</td>
+                    <td>@Is.Departmanlar.Departman_Adi</td>
+                    <td>@Is.Isin_Adi</td>
+                    <td>@Is.Isin_Açiklamasi</td>
+                    <td>@Is.Baslama_tarihi.Value.ToString("dd.MM.yyyy")</td>
+                    <td>@Is.Bitis_Tarihi.Value.ToString("dd.MM.yyyy")</td>
+                    <td><a href="~/Is/Guncelle/@Is.Is_Detay_ID" class="btn btn-primary">Güncelle</a></td>
+                    <td><a href="/Is/Sil/@Is.Is_Detay_ID" class="btn btn-warning">Sil</a></td>
+                </tr>
+            }
+        }
+    </tbody>
+
+</table>
+<script>
+    $(document).ready(function () {
+        $("#filter").DataTable({
+            "language": {
+                "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Turkish.json"
+            },
+            dom: 'Bfrtip',
+            buttons: [
+                { extend: 'copy', className: 'bg-primary', text: 'Tabloyu Kopyala' },
+                { extend: 'pdf', className: 'bg-success', text: 'Tabloyu PDF Olarak Kaydet' }
+            ]
+        });
+    });
+</script>

@@ -1,0 +1,64 @@
+﻿@using KurumsalAjanda.Models
+@model List<Toplantilar>
+@{
+    ViewBag.Title = "Listele";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table class="table" style="background-color:#fff" id="filter">
+    <thead>
+        <tr>
+            <th>Toplantı ID</th>
+            <th>Toplantı Adı</th>
+            <th>Açıklama</th>
+            <th>Tarih</th>
+            <th>saat</th>
+            <th>Toplanti Önemi</th>
+            <th>Katılan Personel</th>
+            <th>Katılan Müşteri</th>
+            @if (Session["Yetki"].Equals(true))
+            {
+                <th>Güncelle</th>
+                <th>Sil</th>
+            }
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var toplanti in Model)
+        {
+            <tr>
+                <td>@toplanti.Toplanti_ID</td>
+                <td>@toplanti.Toplanti_Ad</td>
+                <td>@toplanti.Toplanti_Aciklama</td>
+                <td>@toplanti.Toplanti_Tarih.Value.ToString("dd.MM.yyyy")</td>
+                <td>@toplanti.Saat.saat1</td>
+                <td>@toplanti.Toplanti_Onemi.Toplanti_Isim</td>
+                <td>@toplanti.Katılan_Personeller</td>
+                <td>@toplanti.Katılan_Musteri</td>
+                @if (Session["Yetki"].Equals(true))
+                {
+                    <td><a href="~/Toplanti/Guncelle/@toplanti.Toplanti_ID" class="btn btn-warning">Güncelle</a></td>
+                    <td><a href="~/Toplanti/Sil/@toplanti.Toplanti_ID" class="btn btn-primary">Sil</a></td>
+                }
+            </tr>
+        }
+
+    </tbody>
+</table>
+@if (Session["Yetki"].Equals(true))
+{
+    <script>
+        $(document).ready(function () {
+            $("#filter").DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Turkish.json"
+                },
+                dom: 'Bfrtip',
+                buttons: [
+                    { extend: 'copy', className: 'bg-primary', text: 'Tabloyu Kopyala' },
+                    { extend: 'pdf', className: 'bg-success', text: 'Tabloyu PDF Olarak Kaydet', orientation: 'landscape', pageSize: 'LEGAL' }
+                ]
+            });
+        });
+    </script>
+}

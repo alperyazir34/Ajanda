@@ -1,0 +1,41 @@
+﻿@using KurumsalAjanda.Models
+@model List<Personeller>
+@{
+    ViewBag.Title = "AdminDuzenle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form method="post" class="form-group" action="#">
+    <table class="table table-bordered table-striped" style="background-color:#fff">
+
+        <thead>
+            <tr>
+                <th>Adı</th>
+                <th>Soyadı</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (Personeller admin in Model)
+            {
+                <tr>
+                    <td>@admin.Ad</td>
+                    <td>@admin.Soyad</td>
+                    <td>
+                        @if (admin.Admin == true)
+                        {
+                            @Html.ActionLink("Kaldır", "Admin", "Home", new { @id = admin.Personel_ID }, new { @class = "btn btn-danger" })
+                        }
+                        else
+                        {
+                            @Html.ActionLink("Yap", "Admin", "Home", new { @id = admin.Personel_ID }, new { @class = "btn btn-success" })
+                        }
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</form>
+

@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KurumsalAjandaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Departmanlar">
+    <Key>
+      <PropertyRef Name="Departman_ID" />
+    </Key>
+    <Property Name="Departman_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Departman_Adi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Olusturma_Tarihi" Type="DateTime" Precision="0" />
+    <Property Name="Is_Active" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Is_Detay" Relationship="Self.FK_Is_Detay_Departmanlar" FromRole="Departmanlar" ToRole="Is_Detay" />
+    <NavigationProperty Name="Izindekiler" Relationship="Self.FK_Izindekiler_Departmanlar" FromRole="Departmanlar" ToRole="Izindekiler" />
+    <NavigationProperty Name="Personeller" Relationship="Self.FK_Personeller_Departmanlar" FromRole="Departmanlar" ToRole="Personeller" />
+  </EntityType>
+  <EntityType Name="Is_Detay">
+    <Key>
+      <PropertyRef Name="Is_Detay_ID" />
+    </Key>
+    <Property Name="Is_Detay_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Personel_ID" Type="Int32" />
+    <Property Name="Is_Turu_ID" Type="Int32" />
+    <Property Name="Toplanti_Onemi_ID" Type="Int32" />
+    <Property Name="Departman_ID" Type="Int32" />
+    <Property Name="Isin_Adi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Isin_Açiklamasi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Baslama_tarihi" Type="DateTime" Precision="0" />
+    <Property Name="Bitis_Tarihi" Type="DateTime" Precision="0" />
+    <Property Name="Is_Active" Type="Boolean" />
+    <NavigationProperty Name="Departmanlar" Relationship="Self.FK_Is_Detay_Departmanlar" FromRole="Is_Detay" ToRole="Departmanlar" />
+    <NavigationProperty Name="Is_Turleri" Relationship="Self.FK_Is_Detay_Is_Turleri" FromRole="Is_Detay" ToRole="Is_Turleri" />
+    <NavigationProperty Name="Personeller" Relationship="Self.FK_Is_Detay_Personeller" FromRole="Is_Detay" ToRole="Personeller" />
+    <NavigationProperty Name="Toplanti_Onemi" Relationship="Self.FK_Is_Detay_Toplanti_Onemi" FromRole="Is_Detay" ToRole="Toplanti_Onemi" />
+  </EntityType>
+  <EntityType Name="Is_Turleri">
+    <Key>
+      <PropertyRef Name="Is_Turu_ID" />
+    </Key>
+    <Property Name="Is_Turu_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tur_Adi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Tur_Aciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Is_Active" Type="Boolean" />
+    <NavigationProperty Name="Is_Detay" Relationship="Self.FK_Is_Detay_Is_Turleri" FromRole="Is_Turleri" ToRole="Is_Detay" />
+  </EntityType>
+  <EntityType Name="Izindekiler">
+    <Key>
+      <PropertyRef Name="Izindekiler_ID" />
+    </Key>
+    <Property Name="Izindekiler_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Personel_ID" Type="Int32" />
+    <Property Name="Deparman_ID" Type="Int32" />
+    <Property Name="Izine_Cikis_Tarihi" Type="DateTime" Precision="0" />
+    <Property Name="Izinden_Donus_Tarihi" Type="DateTime" Precision="0" />
+    <Property Name="Is_Active" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Departmanlar" Relationship="Self.FK_Izindekiler_Departmanlar" FromRole="Izindekiler" ToRole="Departmanlar" />
+    <NavigationProperty Name="Personeller" Relationship="Self.FK_Izindekiler_Personeller" FromRole="Izindekiler" ToRole="Personeller" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="Musteri_ID" />
+    </Key>
+    <Property Name="Musteri_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Sifre" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Soyad" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Bas_Harfler" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Departman_Adi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Dogum_Tarihi" Type="DateTime" Precision="0" />
+    <Property Name="E_Mail" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Vasfi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Is_Active" Type="Boolean" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Personeller">
+    <Key>
+      <PropertyRef Name="Personel_ID" />
+    </Key>
+    <Property Name="Personel_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Derpartman_ID" Type="Int32" />
+    <Property Name="Sifre" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Ad" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Soyad" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Bas_Harfler" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Dogum_Tarihi" Type="DateTime" Precision="0" />
+    <Property Name="E_Mail" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Vasfi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ise_Giris_Tarihi" Type="DateTime" Precision="0" />
+    <Property Name="Yillik_Izin_Gun_Sayisi" Type="Int32" />
+    <Property Name="Admin" Type="Boolean" />
+    <Property Name="Is_Active" Type="Boolean" />
+    <NavigationProperty Name="Departmanlar" Relationship="Self.FK_Personeller_Departmanlar" FromRole="Personeller" ToRole="Departmanlar" />
+    <NavigationProperty Name="Is_Detay" Relationship="Self.FK_Is_Detay_Personeller" FromRole="Personeller" ToRole="Is_Detay" />
+    <NavigationProperty Name="Izindekiler" Relationship="Self.FK_Izindekiler_Personeller" FromRole="Personeller" ToRole="Izindekiler" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Saat">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="saat1" Type="Time" Precision="7" />
+    <Property Name="IsActive" Type="Boolean" />
+    <NavigationProperty Name="Toplantilar" Relationship="Self.FK_Toplantilar_Saat" FromRole="Saat" ToRole="Toplantilar" />
+  </EntityType>
+  <EntityType Name="Toplanti_Onemi">
+    <Key>
+      <PropertyRef Name="Toplanti_Onemi_ID" />
+    </Key>
+    <Property Name="Toplanti_Onemi_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Toplanti_Isim" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Toplanti_Durum" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Is_Detay" Relationship="Self.FK_Is_Detay_Toplanti_Onemi" FromRole="Toplanti_Onemi" ToRole="Is_Detay" />
+    <NavigationProperty Name="Toplantilar" Relationship="Self.FK_Toplantilar_Toplanti_Onemi" FromRole="Toplanti_Onemi" ToRole="Toplantilar" />
+  </EntityType>
+  <EntityType Name="Toplantilar">
+    <Key>
+      <PropertyRef Name="Toplanti_ID" />
+    </Key>
+    <Property Name="Toplanti_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Toplanti_Tarih" Type="DateTime" Precision="0" />
+    <Property Name="Saat_ID" Type="Int32" />
+    <Property Name="Toplanti_Onemi_ID" Type="Int32" />
+    <Property Name="Toplanti_Ad" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Toplanti_Aciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Katılan_Personeller" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Katılan_Musteri" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Is_Active" Type="Boolean" />
+    <NavigationProperty Name="Saat" Relationship="Self.FK_Toplantilar_Saat" FromRole="Toplantilar" ToRole="Saat" />
+    <NavigationProperty Name="Toplanti_Onemi" Relationship="Self.FK_Toplantilar_Toplanti_Onemi" FromRole="Toplantilar" ToRole="Toplanti_Onemi" />
+  </EntityType>
+  <Association Name="FK_Is_Detay_Departmanlar">
+    <End Role="Departmanlar" Type="Self.Departmanlar" Multiplicity="0..1" />
+    <End Role="Is_Detay" Type="Self.Is_Detay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departmanlar">
+        <PropertyRef Name="Departman_ID" />
+      </Principal>
+      <Dependent Role="Is_Detay">
+        <PropertyRef Name="Departman_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Izindekiler_Departmanlar">
+    <End Role="Departmanlar" Type="Self.Departmanlar" Multiplicity="0..1" />
+    <End Role="Izindekiler" Type="Self.Izindekiler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departmanlar">
+        <PropertyRef Name="Departman_ID" />
+      </Principal>
+      <Dependent Role="Izindekiler">
+        <PropertyRef Name="Deparman_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Personeller_Departmanlar">
+    <End Role="Departmanlar" Type="Self.Departmanlar" Multiplicity="0..1" />
+    <End Role="Personeller" Type="Self.Personeller" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departmanlar">
+        <PropertyRef Name="Departman_ID" />
+      </Principal>
+      <Dependent Role="Personeller">
+        <PropertyRef Name="Derpartman_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Is_Detay_Is_Turleri">
+    <End Role="Is_Turleri" Type="Self.Is_Turleri" Multiplicity="0..1" />
+    <End Role="Is_Detay" Type="Self.Is_Detay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Is_Turleri">
+        <PropertyRef Name="Is_Turu_ID" />
+      </Principal>
+      <Dependent Role="Is_Detay">
+        <PropertyRef Name="Is_Turu_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Is_Detay_Personeller">
+    <End Role="Personeller" Type="Self.Personeller" Multiplicity="0..1" />
+    <End Role="Is_Detay" Type="Self.Is_Detay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Personeller">
+        <PropertyRef Name="Personel_ID" />
+      </Principal>
+      <Dependent Role="Is_Detay">
+        <PropertyRef Name="Personel_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Is_Detay_Toplanti_Onemi">
+    <End Role="Toplanti_Onemi" Type="Self.Toplanti_Onemi" Multiplicity="0..1" />
+    <End Role="Is_Detay" Type="Self.Is_Detay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Toplanti_Onemi">
+        <PropertyRef Name="Toplanti_Onemi_ID" />
+      </Principal>
+      <Dependent Role="Is_Detay">
+        <PropertyRef Name="Toplanti_Onemi_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Izindekiler_Personeller">
+    <End Role="Personeller" Type="Self.Personeller" Multiplicity="0..1" />
+    <End Role="Izindekiler" Type="Self.Izindekiler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Personeller">
+        <PropertyRef Name="Personel_ID" />
+      </Principal>
+      <Dependent Role="Izindekiler">
+        <PropertyRef Name="Personel_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Toplantilar_Saat">
+    <End Role="Saat" Type="Self.Saat" Multiplicity="0..1" />
+    <End Role="Toplantilar" Type="Self.Toplantilar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Saat">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Toplantilar">
+        <PropertyRef Name="Saat_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Toplantilar_Toplanti_Onemi">
+    <End Role="Toplanti_Onemi" Type="Self.Toplanti_Onemi" Multiplicity="0..1" />
+    <End Role="Toplantilar" Type="Self.Toplantilar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Toplanti_Onemi">
+        <PropertyRef Name="Toplanti_Onemi_ID" />
+      </Principal>
+      <Dependent Role="Toplantilar">
+        <PropertyRef Name="Toplanti_Onemi_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KurumsalAjandaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Departmanlar" EntityType="Self.Departmanlar" />
+    <EntitySet Name="Is_Detay" EntityType="Self.Is_Detay" />
+    <EntitySet Name="Is_Turleri" EntityType="Self.Is_Turleri" />
+    <EntitySet Name="Izindekiler" EntityType="Self.Izindekiler" />
+    <EntitySet Name="Musteriler" EntityType="Self.Musteriler" />
+    <EntitySet Name="Personeller" EntityType="Self.Personeller" />
+    <EntitySet Name="Saat" EntityType="Self.Saat" />
+    <EntitySet Name="Toplanti_Onemi" EntityType="Self.Toplanti_Onemi" />
+    <EntitySet Name="Toplantilar" EntityType="Self.Toplantilar" />
+    <AssociationSet Name="FK_Is_Detay_Departmanlar" Association="Self.FK_Is_Detay_Departmanlar">
+      <End Role="Departmanlar" EntitySet="Departmanlar" />
+      <End Role="Is_Detay" EntitySet="Is_Detay" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Izindekiler_Departmanlar" Association="Self.FK_Izindekiler_Departmanlar">
+      <End Role="Departmanlar" EntitySet="Departmanlar" />
+      <End Role="Izindekiler" EntitySet="Izindekiler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Personeller_Departmanlar" Association="Self.FK_Personeller_Departmanlar">
+      <End Role="Departmanlar" EntitySet="Departmanlar" />
+      <End Role="Personeller" EntitySet="Personeller" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Is_Detay_Is_Turleri" Association="Self.FK_Is_Detay_Is_Turleri">
+      <End Role="Is_Turleri" EntitySet="Is_Turleri" />
+      <End Role="Is_Detay" EntitySet="Is_Detay" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Is_Detay_Personeller" Association="Self.FK_Is_Detay_Personeller">
+      <End Role="Personeller" EntitySet="Personeller" />
+      <End Role="Is_Detay" EntitySet="Is_Detay" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Is_Detay_Toplanti_Onemi" Association="Self.FK_Is_Detay_Toplanti_Onemi">
+      <End Role="Toplanti_Onemi" EntitySet="Toplanti_Onemi" />
+      <End Role="Is_Detay" EntitySet="Is_Detay" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Izindekiler_Personeller" Association="Self.FK_Izindekiler_Personeller">
+      <End Role="Personeller" EntitySet="Personeller" />
+      <End Role="Izindekiler" EntitySet="Izindekiler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Toplantilar_Saat" Association="Self.FK_Toplantilar_Saat">
+      <End Role="Saat" EntitySet="Saat" />
+      <End Role="Toplantilar" EntitySet="Toplantilar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Toplantilar_Toplanti_Onemi" Association="Self.FK_Toplantilar_Toplanti_Onemi">
+      <End Role="Toplanti_Onemi" EntitySet="Toplanti_Onemi" />
+      <End Role="Toplantilar" EntitySet="Toplantilar" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

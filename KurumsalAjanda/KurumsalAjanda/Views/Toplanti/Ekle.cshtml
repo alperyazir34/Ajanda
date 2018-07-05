@@ -1,0 +1,110 @@
+﻿@model KurumsalAjanda.Models.Toplantilar
+
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="col-lg-2"></div>
+<div class="col-lg-8">
+    <form action="~/Toplanti/Kaydet" method="post">
+        <div class="form-group">
+            <b>Toplantı Tarihi</b>
+            <input type="date" name="toplantitarih" placeholder="Toplantı Tarihi" class="from form-control" required="" />
+        </div>
+        <div class="form-group">
+            <b>Toplantı Saati</b>
+            @Html.DropDownList("saat", ViewBag.saat as SelectList, new { @class = "form-control", required = "" })
+        </div>
+        <div class="form-group">
+            <b>Katılacak Personeller</b>
+            @Html.DropDownList("katilimciper", ViewBag.katilimciperx as MultiSelectList, new { @class = "form form-control selectpicker", multiple = "multiple", data_live_search = "true", data_actions_box = "true", data_style = "bg-light" })
+        </div>
+        <div class="form-group">
+            <b>Katılacak Müşteriler</b>
+            @Html.DropDownList("katilimcimus", ViewBag.katilimcimusx as MultiSelectList, new { @class = "form form-control selectpicker", multiple = "multiple", data_live_search = "true", data_actions_box = "true", data_style = "bg-light" })
+        </div>
+        <div class="form-group">
+            <b>Toplantı Adı</b>
+            <input type="text" class="form form-control" name="ad" required="" placeholder="Toplantı Adı" />
+        </div>
+        <div class="form-group">
+            <b>Toplantı Açıklaması</b>
+            <textarea class="form-control" name="aciklama"></textarea>
+        </div>
+        <div class="form-group">
+            <b>Toplantı Önemi</b>
+            @Html.DropDownList("onem", ViewBag.onem as SelectList, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <div class="col-lg-5"></div>
+            <div class="col-lg-2">
+                @Html.HiddenFor(m => m.Toplanti_ID)
+                <input type="submit" name="button" value="Kaydet" class="btn btn-dark" />
+            </div>
+            <div class="col-lg-5"></div>
+        </div>
+    </form>
+</div>
+<div class="col-lg-2"></div>
+@*<div class="col-lg-2"></div>
+    <div class="col-lg-8">
+        @using (Html.BeginForm("Kaydet", "Toplanti", FormMethod.Post))
+        {
+            <div class="form-group">
+                @Html.Label("Tarih", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBox("toplantitarih", DateTime.Now.ToString("dd.MM.yyyy"), new { @class = "from form-control", required = "", type = "date", @value = System.DateTime.Now })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Saat", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("saat", ViewBag.saat as SelectList, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Katılacak Personeller", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("katilimciper", ViewBag.katilimciperx as MultiSelectList, new { @class = "form form-control selectpicker", multiple = "multiple", data_live_search = "true", data_actions_box = "true", data_style = "bg-light" })
+                </div>
+            </div>
+            <div class="form-group ">
+                @Html.Label("Katılacak Müşteriler", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("katilimcimus", ViewBag.katilimcimusx as MultiSelectList, new { @class = "form form-control selectpicker", multiple = "multiple", data_live_search = "true", data_actions_box = "true", data_style = "bg-light" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Toplantı Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBox("ad", null, new { @class = "from form-control", required = "" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Toplantı Açıklaması", null, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextArea("aciklama", null, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Toplantı Önemi", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("onem", ViewBag.onem as SelectList, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="col-lg-4"></div>
+            <div class="col-lg-4">
+                @Html.HiddenFor(m => m.Toplanti_ID)
+                <input type="submit" name="button" value="Kaydet" class="btn btn-dark" />
+            </div>
+        }
+    </div>
+    <div class="col-lg-2"></div>*@
+
+
+
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>

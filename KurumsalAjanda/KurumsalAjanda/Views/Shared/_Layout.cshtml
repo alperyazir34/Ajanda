@@ -1,0 +1,185 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link href="~/template/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/template/css/style.css" rel="stylesheet" />
+    <link href="~/template/css/font-awesome.css" rel="stylesheet" />
+
+    <link href="~/template/css/SidebarNav.min.css" rel="stylesheet" />
+    <script src="~/template/js/jquery-1.11.1.min.js"></script>
+    <script src="~/template/js/modernizr.custom.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <link href="//fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+    <script src="~/template/js/metisMenu.min.js"></script>
+    <script src="~/template/js/custom.js"></script>
+    <link href="~/template/css/custom.css" rel="stylesheet" />
+    <!--bootstrap selectlist-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+    <!--son bootstrap selectlist-->
+    <!--DataTable-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.10.16/b-1.5.1/b-html5-1.5.1/datatables.min.css" />
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
+         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"></script>
+         <script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.10.16/b-1.5.1/b-html5-1.5.1/datatables.min.js"></script>
+    <!--Son DataTable-->
+</head>
+<body class="cbp-spmenu-push ">
+    <div class="main-content">
+        <div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
+            <aside class="sidebar-left">
+                <nav class="navbar navbar-inverse">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".collapse" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <h1><a class="navbar-brand" href="~/Home/Index"><span class="fa fa-area-chart"></span> Glance<span class="dashboard_text">Design dashboard</span></a></h1>
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="sidebar-menu">
+                            <li class="header">Menü</li>
+                            <li class="treeview">
+                                <a href="~/Home/Index">
+                                    <i class="fa fa-home"></i> <span>Anasayfa</span>
+                                </a>
+                            </li>
+                            @if (Session["Yetki"].Equals(true))
+                            {
+                                <li class="treeview">
+                                    <a href="#">
+                                        <i class="fa fa-briefcase"></i>
+                                        <span>İş Yönetimi</span>
+                                        <i class="fa fa-angle-left pull-right"></i>
+                                    </a>
+                                    <ul class="treeview-menu">
+                                        <li>
+                                            <a href="~/Is/Ekle">
+                                                <i class="fa fa-angle-right"></i>İş Ekle
+                                            </a>
+                                        </li>
+                                        <li><a href="~/Is/Listele"><i class="fa fa-angle-right"></i> İşleri Görüntüle</a></li>
+                                    </ul>
+                                </li>
+                            }
+                            <li class="treeview">
+                                <a href="~/Musteri/Listele">
+                                    <i class="fa fa-users"></i>
+                                    <span>Müşteriler</span>
+                                </a>
+                            </li>
+                            @if (Session["Yetki"].Equals(true))
+                            {
+                                <li class="treeview">
+                                    <a href="#">
+                                        <i class="fa fa-user"></i>
+                                        <span>Personel</span>
+                                        <i class="fa fa-angle-left pull-right"></i>
+                                    </a>
+                                    <ul class="treeview-menu">
+                                        <li><a href="~/Personel/Ekle"><i class="fa fa-angle-right"></i> Personel Ekle</a></li>
+                                        <li><a href="~/Personel/Listele"><i class="fa fa-angle-right"></i>Personeller</a></li>
+                                    </ul>
+                                </li>
+                            }
+                            <li class="treeview">
+                                <a href="#">
+                                    <i class="fa fa-calendar-check-o"></i>
+                                    <span>Toplantılar</span>
+                                    <i class="fa fa-angle-left pull-right"></i>
+                                </a>
+                                <ul class="treeview-menu">
+                                    <li><a href="~/Toplanti/Ekle"><i class="fa fa-angle-right"></i> Toplantı Ekle</a></li>
+                                    <li><a href="~/Toplanti/Listele"><i class="fa fa-angle-right"></i>Toplantılar</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </aside>
+        </div>
+        <div class="sticky-header header-section ">
+            <div class="header-left">
+                <button id="showLeftPush"><i class="fa fa-bars"></i></button>
+                <div class="profile_details_left">
+                    <div class="clearfix"> </div>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+            <div class="header-right">
+                <div class="profile_details">
+                    <ul>
+                        <li class="dropdown profile_details_drop">
+                            <a href="~/template/#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                <div class="profile_img">
+                                    <div style="width:50px; height:50px; border-radius:50px; float:left; color:#fff; padding:12.5px;  background-color:#F2B33F;">
+                                        <h3>@Session["BasHarf"]</h3>
+                                    </div>
+                                    <div class="user-name">
+                                        <p>@Session["AdSoyad"]</p>
+                                        <span>@Session["Email"]</span>
+                                    </div>
+                                    <i class="fa fa-angle-down lnr"></i>
+                                    <i class="fa fa-angle-up lnr"></i>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu drp-mnu">
+                                @if (Session["email"].Equals("eniskaragoz2@gmail.com"))
+                                {
+                                    <li> <a href="~/Home/AdminDuzenle"><i class="fa fa-sign-out"></i> Admin Düzenle</a> </li>
+                                }
+                                <li> <a href="~/Home/logout"><i class="fa fa-sign-out"></i> ÇIkış Yap</a> </li>
+
+
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <div id="page-wrapper">
+            <div class="main-page">
+                @RenderBody()
+            </div>
+        </div>
+        <div class="footer">
+            <p>&copy; 2018 Kurumsal Ajanda. All Rights Reserved | Design by Enis - Alper - Erkam</p>
+        </div>
+    </div>
+    <script src='~/template/js/SidebarNav.min.js' type='text/javascript'></script>
+    <script>
+        $('.sidebar-menu').SidebarNav()
+    </script>
+    <script src="~/template/js/classie.js"></script>
+    <script>
+        var menuLeft = document.getElementById('cbp-spmenu-s1'),
+            showLeftPush = document.getElementById('showLeftPush'),
+            body = document.body;
+
+        showLeftPush.onclick = function () {
+            classie.toggle(this, 'active');
+            classie.toggle(body, 'cbp-spmenu-push-toright');
+            classie.toggle(menuLeft, 'cbp-spmenu-open');
+            disableOther('showLeftPush');
+        };
+
+        function disableOther(button) {
+            if (button !== 'showLeftPush') {
+                classie.toggle(showLeftPush, 'disabled');
+            }
+        }
+    </script>
+    <script src="~/template/js/jquery.nicescroll.js"></script>
+    <script src="~/template/js/scripts.js"></script>
+    <script src="~/template/js/bootstrap.js"></script>
+
+</body>
+</html>

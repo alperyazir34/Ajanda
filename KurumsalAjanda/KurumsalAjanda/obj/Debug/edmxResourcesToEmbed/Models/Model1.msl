@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KurumsalAjandaModelStoreContainer" CdmEntityContainer="KurumsalAjandaEntities">
+    <EntitySetMapping Name="Departmanlar">
+      <EntityTypeMapping TypeName="KurumsalAjandaModel.Departmanlar">
+        <MappingFragment StoreEntitySet="Departmanlar">
+          <ScalarProperty Name="Departman_ID" ColumnName="Departman_ID" />
+          <ScalarProperty Name="Departman_Adi" ColumnName="Departman_Adi" />
+          <ScalarProperty Name="Olusturma_Tarihi" ColumnName="Olusturma_Tarihi" />
+          <ScalarProperty Name="Is_Active" ColumnName="Is_Active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Is_Detay">
+      <EntityTypeMapping TypeName="KurumsalAjandaModel.Is_Detay">
+        <MappingFragment StoreEntitySet="Is_Detay">
+          <ScalarProperty Name="Is_Detay_ID" ColumnName="Is_Detay_ID" />
+          <ScalarProperty Name="Personel_ID" ColumnName="Personel_ID" />
+          <ScalarProperty Name="Is_Turu_ID" ColumnName="Is_Turu_ID" />
+          <ScalarProperty Name="Toplanti_Onemi_ID" ColumnName="Toplanti_Onemi_ID" />
+          <ScalarProperty Name="Departman_ID" ColumnName="Departman_ID" />
+          <ScalarProperty Name="Isin_Adi" ColumnName="Isin_Adi" />
+          <ScalarProperty Name="Isin_Açiklamasi" ColumnName="Isin_Açiklamasi" />
+          <ScalarProperty Name="Baslama_tarihi" ColumnName="Baslama_tarihi" />
+          <ScalarProperty Name="Bitis_Tarihi" ColumnName="Bitis_Tarihi" />
+          <ScalarProperty Name="Is_Active" ColumnName="Is_Active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Is_Turleri">
+      <EntityTypeMapping TypeName="KurumsalAjandaModel.Is_Turleri">
+        <MappingFragment StoreEntitySet="Is_Turleri">
+          <ScalarProperty Name="Is_Turu_ID" ColumnName="Is_Turu_ID" />
+          <ScalarProperty Name="Tur_Adi" ColumnName="Tur_Adi" />
+          <ScalarProperty Name="Tur_Aciklama" ColumnName="Tur_Aciklama" />
+          <ScalarProperty Name="Is_Active" ColumnName="Is_Active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Izindekiler">
+      <EntityTypeMapping TypeName="KurumsalAjandaModel.Izindekiler">
+        <MappingFragment StoreEntitySet="Izindekiler">
+          <ScalarProperty Name="Izindekiler_ID" ColumnName="Izindekiler_ID" />
+          <ScalarProperty Name="Personel_ID" ColumnName="Personel_ID" />
+          <ScalarProperty Name="Deparman_ID" ColumnName="Deparman_ID" />
+          <ScalarProperty Name="Izine_Cikis_Tarihi" ColumnName="Izine_Cikis_Tarihi" />
+          <ScalarProperty Name="Izinden_Donus_Tarihi" ColumnName="Izinden_Donus_Tarihi" />
+          <ScalarProperty Name="Is_Active" ColumnName="Is_Active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Musteriler">
+      <EntityTypeMapping TypeName="KurumsalAjandaModel.Musteriler">
+        <MappingFragment StoreEntitySet="Musteriler">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Musteri_ID" ColumnName="Musteri_ID" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Bas_Harfler" ColumnName="Bas_Harfler" />
+          <ScalarProperty Name="Departman_Adi" ColumnName="Departman_Adi" />
+          <ScalarProperty Name="Dogum_Tarihi" ColumnName="Dogum_Tarihi" />
+          <ScalarProperty Name="E_Mail" ColumnName="E_Mail" />
+          <ScalarProperty Name="Telefon_No" ColumnName="Telefon_No" />
+          <ScalarProperty Name="Vasfi" ColumnName="Vasfi" />
+          <ScalarProperty Name="Is_Active" ColumnName="Is_Active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personeller">
+      <EntityTypeMapping TypeName="KurumsalAjandaModel.Personeller">
+        <MappingFragment StoreEntitySet="Personeller">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Personel_ID" ColumnName="Personel_ID" />
+          <ScalarProperty Name="Derpartman_ID" ColumnName="Derpartman_ID" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Bas_Harfler" ColumnName="Bas_Harfler" />
+          <ScalarProperty Name="Dogum_Tarihi" ColumnName="Dogum_Tarihi" />
+          <ScalarProperty Name="E_Mail" ColumnName="E_Mail" />
+          <ScalarProperty Name="Telefon_No" ColumnName="Telefon_No" />
+          <ScalarProperty Name="Vasfi" ColumnName="Vasfi" />
+          <ScalarProperty Name="Ise_Giris_Tarihi" ColumnName="Ise_Giris_Tarihi" />
+          <ScalarProperty Name="Yillik_Izin_Gun_Sayisi" ColumnName="Yillik_Izin_Gun_Sayisi" />
+          <ScalarProperty Name="Admin" ColumnName="Admin" />
+          <ScalarProperty Name="Is_Active" ColumnName="Is_Active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Saat">
+      <EntityTypeMapping TypeName="KurumsalAjandaModel.Saat">
+        <MappingFragment StoreEntitySet="Saat">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="saat1" ColumnName="saat" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Toplanti_Onemi">
+      <EntityTypeMapping TypeName="KurumsalAjandaModel.Toplanti_Onemi">
+        <MappingFragment StoreEntitySet="Toplanti_Onemi">
+          <ScalarProperty Name="Toplanti_Onemi_ID" ColumnName="Toplanti_Onemi_ID" />
+          <ScalarProperty Name="Toplanti_Isim" ColumnName="Toplanti_Isim" />
+          <ScalarProperty Name="Toplanti_Durum" ColumnName="Toplanti_Durum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Toplantilar">
+      <EntityTypeMapping TypeName="KurumsalAjandaModel.Toplantilar">
+        <MappingFragment StoreEntitySet="Toplantilar">
+          <ScalarProperty Name="Toplanti_ID" ColumnName="Toplanti_ID" />
+          <ScalarProperty Name="Toplanti_Tarih" ColumnName="Toplanti_Tarih" />
+          <ScalarProperty Name="Saat_ID" ColumnName="Saat_ID" />
+          <ScalarProperty Name="Toplanti_Onemi_ID" ColumnName="Toplanti_Onemi_ID" />
+          <ScalarProperty Name="Toplanti_Ad" ColumnName="Toplanti_Ad" />
+          <ScalarProperty Name="Toplanti_Aciklama" ColumnName="Toplanti_Aciklama" />
+          <ScalarProperty Name="Katılan_Personeller" ColumnName="Katılan_Personeller" />
+          <ScalarProperty Name="Katılan_Musteri" ColumnName="Katılan_Musteri" />
+          <ScalarProperty Name="Is_Active" ColumnName="Is_Active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
